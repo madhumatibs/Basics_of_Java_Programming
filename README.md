@@ -4,9 +4,13 @@ Aspiring full-stack developer passionate about web development and database mana
 
 1b ArrayLists
 p1 O/P :https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Screenshot%202026-04-18%20235817.png
+
 p2 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Screenshot%202026-04-18%20235842.png
+
 P3 O/P :https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Screenshot%202026-04-18%20235855.png
+
 P4 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Screenshot%202026-04-18%20235908.png
+
 P5 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Screenshot%202026-04-18%20235922.png
 
 1c LinkedLists
