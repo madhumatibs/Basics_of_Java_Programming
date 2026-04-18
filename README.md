@@ -19,3 +19,5 @@ C3 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/c3.pn
 C4 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/c4.png
 
 C5 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/c5.png
+
+2a StringHandlingDemo :https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/2a.png
