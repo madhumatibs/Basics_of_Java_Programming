@@ -48,3 +48,9 @@ Q9 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q9.p
 
 Q10 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q10.png
 
+4A O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/4A.png
+
+4B O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/4b.png
+
+4C O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/4c.png
+
