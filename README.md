@@ -29,13 +29,22 @@ C5 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/c5.pn
 3b String Exercise programs
 
 Q1 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q1.png
+
 Q2 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q2.png
+
 Q3 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q3.png
+
 Q4 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q4.png
+
 Q5 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q5.png
+
 Q6 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q6.png
+
 Q7 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q7.png
+
 Q8 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q8.png
+
 Q9 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q9.png
+
 Q10 O/P: https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Q10.png
 
