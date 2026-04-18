@@ -8,3 +8,14 @@ p2 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Scree
 P3 O/P :https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Screenshot%202026-04-18%20235855.png
 P4 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Screenshot%202026-04-18%20235908.png
 P5 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/Screenshot%202026-04-18%20235922.png
+
+1c LinkedLists
+ C1 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/c1.png
+
+C2 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/c2.png
+
+C3 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/c3.png
+
+C4 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/c4.png
+
+C5 O/P:https://github.com/madhumatibs/Basics_of_Java_Programming/blob/main/c5.png
